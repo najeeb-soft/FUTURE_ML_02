@@ -25,3 +25,6 @@ This project uses Natural Language Processing (NLP) to automate the sorting of c
 ## 📂 Deliverables
 - `Task2_Ticket_Classification.py`: NLP and Classification logic.
 - `classification_matrix.png`: Visual evaluation of the model.
+
+  ![Heatmap](classification_matrix.png)
+  
